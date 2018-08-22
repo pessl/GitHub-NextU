@@ -1,0 +1,15 @@
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+	<!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+	<defs>
+		<linearGradient id="svg_37" x1="0" x2="1" y1="0" y2="0">
+			<stop offset="0.00417" stop-color="#353231" stop-opacity="0.98047"/>
+			<stop offset="0.45338" stop-color="#4f5556" stop-opacity="0.97266"/>
+			<stop offset="1" stop-color="#b3babc" stop-opacity="0.97656"/>
+		</linearGradient>
+	</defs>
+	<g class="layer">
+		<title>Layer 1</title>
+		<circle cx="325.20002" cy="240" fill="url(#svg_37)" id="svg_11" r="235" stroke="#ff007f" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0"/>
+		<text fill="#f5f7f2" font-family="Monospace" font-size="32" font-style="italic" font-weight="bold" id="svg_1" stroke="#ff007f" stroke-linecap="square" stroke-linejoin="round" stroke-width="0" text-anchor="middle" transform="matrix(4.68003, 0, 0, 4.73682, -994.683, -422.493)" x="280.28057" xml:space="preserve" y="148.35554">PESSL</text>
+	</g>
+</svg>
